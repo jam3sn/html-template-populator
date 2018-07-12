@@ -7,9 +7,7 @@ For example, in your CSV file:
 | name | email   | phone     |
 |------|---------|-----------|
 | Jim  | j@j.com | 000000000 |
-|------|---------|-----------|
 | Bob  | b@b.com | 000000000 |
-|------|---------|-----------|
 | Sam  | s@s.com | 000000000 |
 
 Then in your HTML template
