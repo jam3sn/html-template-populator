@@ -1,9 +1,10 @@
-# html-template-populator (WIP)
+# HTML Template Populator (WIP)
 A quick population tool for HTML email templates.
 
 Provide the html file with variables matching your CVS headers and the script will replace them with the data.
 
 For example, in your CSV file:
+
 | name | email   | phone     |
 |------|---------|-----------|
 | Jim  | j@j.com | 000000000 |
